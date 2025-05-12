@@ -1,3 +1,15 @@
+
+<!-- Pixel-style animated banner (replace with your own if needed) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Amirtha%20Pradeep&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20&%20PHP%20Specialist&descAlignY=60&descAlign=62" />
+</p>
+
+
+
+<h3 align="center">Turning Ideas into Scalable Solutions | Progressive Software Solutions & Training</h3>
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amritha+Pradeep;Full-Stack+Web+Developer;Lifelong+Learner+%F0%9F%93%9A;Tech+Lover+%F0%9F%94%BB+with+a+Creative+Mind!" alt="Typing SVG" />
 </h1>
