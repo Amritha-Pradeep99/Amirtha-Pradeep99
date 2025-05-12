@@ -1,97 +1,55 @@
-# Amirtha-Pradeep99
-# 👩‍💻 Amritha Pradeep – Aspiring Web Developer
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amritha+Pradeep;Full-Stack+Web+Developer;Lifelong+Learner+%F0%9F%93%9A;Tech+Lover+%F0%9F%94%BB+with+a+Creative+Mind!" alt="Typing SVG" />
+</h1>
 
-Welcome to my GitHub! I'm a B.Tech graduate in Computer Science and Engineering with a strong interest in full-stack web development. I am passionate about building responsive, user-friendly websites and constantly learning new technologies to stay ahead in the tech world.
-
----
-
-## 🎯 About Me
-
-- 💼 Aspiring Web Developer | .NET & PHP Trainee at Progressive Software Solutions
-- 📚 Certified in Embedded Systems & Hardware Design – SMEClabs
-- 📌 Based in Thodupuzha, Kerala, India
-- 📧 Email: [Amrithapradeep99@gmail.com](mailto:Amrithapradeep99@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/amritha-pradeep-2712471a9](https://www.linkedin.com/in/amritha-pradeep-2712471a9/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritha-pradeep99&label=Profile+views&color=ff69b4&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Frontend-Angular-blue?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20PHP-informational?style=flat-square&logo=python" />
+</p>
 
 ---
 
-## 🧑‍💻 Tech Stack
 
-**Frontend:**
-- HTML, CSS, JavaScript, React
+### 👩‍💻 About Me
 
-**Backend:**
-- PHP, ASP.NET, C#
+- 🎓 **B.Tech in Computer Science Engineering**
+- 💼 Aspiring **Full-Stack Web Developer**
+- 🧠 Always curious about how things work
 
-**Database:**
-- SQL, Stored Procedures
-
-**Other Tools:**
-- Git & GitHub, Visual Studio, Firebase, Postman
 
 ---
 
-## 📚 Education
+### 📫 Let's Connect!
 
-- 🎓 **B.Tech in Computer Science and Engineering**
-  - Vijnan Institute of Science and Technology (2017–2021)
-  - CGPA: 7.56
-
-- 📜 **Advanced PG Diploma in Embedded System and Hardware Design**
-  - SMEClabs (2022–2023)
-
----
-
-## 📂 Projects
-
-### 💡 College Connect
-A web and mobile application that acts as a one-stop-shop for all educative purposes. It simplifies communication and information access between students and staff.
-
-### 💡 Online Sales
-A .NET-based web application with chat and payment options, enhancing the convenience and interactivity for users in online shopping environments.
+<p align="center">
+  <a href="https://linkedin.com/in/amritha-pradeep99" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_amritha_pradeep_" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🏢 Internships & Training
+### 🛠️ Tech Stack
 
-- 🖥️ **ASP.NET & PHP Web Development**  
-  Progressive Software Solutions, Muvattupuzha (12/2023 – 06/2024)
-
-- 🌐 **Basic PHP**  
-  Fleming Embedded and Software Solution LLP, Ernakulam (2018)
-
-- 🌐 **Java Web Development**  
-  Infox Technologies, Infopark (2019)
-
-- ⚙️ **Embedded System & Hardware Design**  
-  SMEClabs, Kaloor (2022–2023)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,php,python,java,mysql,django,dotnet,git,linux,c,cpp,csharp,sass,sqlite" />
+</p>
 
 ---
 
-## 🧠 Soft Skills
+### 📊 GitHub Stats
 
-- Effective Communication  
-- Time Management  
-- Leadership  
-- Problem Solving  
-
----
-
-## 🌐 Languages
-
-- Malayalam – Native  
-- English – Professional  
-- Hindi – Working  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritha-pradeep99&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritha-pradeep99&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritha-pradeep99&theme=radical" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+> ⭐ _Thanks for visiting! Drop a star if you like what you see._
 
-![](https://github-readme-stats.vercel.app/api?username=navendunandu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navendunandu&layout=compact&theme=radical&hide_border=false)
-
----
-
-> “Dedicated and extremely motivated individual, always eager to explore and learn.”
-
----
