@@ -64,4 +64,9 @@
 ---
 
 > ⭐ _Thanks for visiting! Drop a star if you like what you see._
+### 🐍 Watch the Snake Eat Your Contributions!
+
+<p align="center">
+  <img src="https://github.com/amritha-pradeep99/amritha-pradeep99/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
