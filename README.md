@@ -2,6 +2,23 @@
 
 
 
+
+
+<h3 align="center">Turning Ideas into Scalable Solutions | Progressive Software Solutions & Training</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Amritha+Pradeep;Full-Stack+Web+Developer;Lifelong+Learner+%F0%9F%93%9A;Tech+Lover+%F0%9F%94%BB+with+a+Creative+Mind!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritha-pradeep99&label=Profile+views&color=ff69b4&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Frontend-Angular-blue?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20PHP-informational?style=flat-square&logo=python" />
+</p>
+
+---
+
+
+
 ### 👩‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science Engineering**
@@ -43,9 +60,7 @@
 ---
 
 > ⭐ _Thanks for visiting! Drop a star if you like what you see._
-### 🐍 Watch the Snake Eat Your Contributions!
 
-<p align="center">
-  <img src="https://github.com/amritha-pradeep99/amritha-pradeep99/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
+
 
